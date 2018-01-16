@@ -30,19 +30,12 @@
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
+      "name": "Video Game Design",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Artificial Intelligence",
       "keywords": [
       ]
     }
@@ -56,8 +49,6 @@
         "C++",
         "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
       ]
     },
     {
@@ -75,10 +66,10 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Spring, 2020)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
+      "startDate": "2016-08-01",
+      "endDate": "N/A",
       "gpa": "",
       "courses": [
       ]
