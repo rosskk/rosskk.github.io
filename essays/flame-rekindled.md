@@ -1,11 +1,11 @@
 ---
 layout: essay
 type: essay
-title: Igniting the fire
+title: Flame Rekindled
 # All dates must be YYYY-MM-DD format!
-date: 2015-08-26
+date: 2018-01-18
 labels:
-  - Software Engineering
+  - Computer Science
   - Learning
 ---
 
