@@ -46,7 +46,6 @@
       "level": "",
       "keywords": [
         "C",
-        "C++",
         "Java",
         "Javascript"
       ]
@@ -70,7 +69,7 @@
       "studyType": "B.S.",
       "startDate": "2016-08-01",
       "endDate": "N/A",
-      "gpa": "",
+      "gpa": "3.7",
       "courses": [
       ]
     }
@@ -122,9 +121,7 @@
       "endDate": "",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Member, Greyhats Manoa, 2017-Present"
       ]
     }
   ],
