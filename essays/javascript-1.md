@@ -11,3 +11,5 @@ labels:
 ---
 
 Javascript is my third language that I've learned with Java and C being the other two. The freeCodeCamp website helped a lot in expediting the process
+
+{% include {{ site.theme-essays }} %}
