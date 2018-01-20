@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: A Whole New World
+title: Hello Javascript
 date: 2018-01-19
 labels:
   - Computer Science
