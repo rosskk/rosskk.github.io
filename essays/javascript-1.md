@@ -2,12 +2,11 @@
 layout: essay
 type: essay
 title: A Whole New World
-# All dates must be YYYY-MM-DD format!
 date: 2018-01-19
 labels:
   - Computer Science
   - Learning
-  -Javascript
+  - Javascript
 ---
 
 Javascript is my third language that I've learned, with Java and C being the other two. The freeCodeCamp website helped a lot in expediting the process and gave me a pretty solid grip on the core concepts of javascript. Of course, I also decided to finish my tasks at the last possible minute so imagine hamming out 70 lessons in 4 hours just to get a few hours of sleep for the night. This taught me the valuable lesson of why waiting until the last minute is bad... I say as I start working on this essay a few hours before it's due. But we don't worry about those minor details. It will only be a matter of time before the athletic programming style kicks this habit out of me! Hopefully. 
