@@ -5,8 +5,8 @@
     "picture": "/images/profile.JPG",
     "email": "rosskk@hawaii.edu",
     "phone": "808-295-7397",
-    "website": "https://rosskk.github.io",
-    "summary": "I am currently studying for a B.S. in Computer Science in the department of Information and Computer Science and I am expecting to graduate in Spring 2020.",
+    "website": "http://rosskk.github.io",
+    "summary": "I am currently studying for a B.S. in Computer Science in the department of Information and Computer Science and I am expecting to graduate in Spring 2020. I hope to go into game development.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -18,7 +18,7 @@
       {
         "network": "github",
         "username": "rosskk",
-        "url": "http://rosskk.github.io"
+        "url": "https://github.com/rosskk"
       },
       {
         "network": "linkedin",
