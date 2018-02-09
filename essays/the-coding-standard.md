@@ -1,12 +1,12 @@
 ---
 layout: essay
 type: essay
-title: Inquire like an Intellectual
+title: The Coding Standard
 # All dates must be YYYY-MM-DD format!
-date: 2018-01-25
+date: 2018-02-08
 labels:
-  - Questions
-  - Learning
+  - Code style
+  - ESLint
 ---
 
   I’ve always had mixed feelings about social norms. Of course we have laws that are needed to promote order and prevent, or at least discourage, heinous acts. But what about when it comes to fashion and style. Are we just slaves to whatever society dictates looks “normal.” This is where I’d say that things go a little awry. When it comes to coding, it can be similar to that of a sense of fashion in which everyone may have their own unique taste. We can write a multitude of functions that all do the same thing and yet, they can be written in different ways depending on the coder. Even beyond that, the style in which we write can be different from others where, in javascript, someone may put a space between the parameters of their function while someone else may put them together to give something like 
