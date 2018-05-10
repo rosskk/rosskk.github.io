@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/campus-cloud-home.png
+image: images/campus-cloud-display.png
 title: Campus Cloud Application
 permalink: projects/campus-cloud.md
 # All dates must be YYYY-MM-DD format!
