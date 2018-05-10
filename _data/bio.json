@@ -65,7 +65,8 @@
       "level": "",
       "keywords": [
         "MacOS",
-        "GitHub"
+        "GitHub",
+        "IntelliJ IDEA"
       ]
     }
   ],
@@ -92,12 +93,6 @@
       "highlights": [
         "Member, Greyhats Manoa, 2017-Present"
       ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Available upon request",
-      "reference": ""
     }
   ]
 }
