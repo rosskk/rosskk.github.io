@@ -13,7 +13,7 @@ labels:
   - Meteor
 summary: Final project that we developed for ICS 314.
 ---
-<div class="ui small rounded images">
+<div class="ui rounded images">
   <img class="ui image" src="../images/campus-cloud-home.png">
   <img class="ui image" src="../images/campus-cloud-club.png">
 </div>
