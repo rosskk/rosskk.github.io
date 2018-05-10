@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/campus-cloud-display.png
 title: Campus Cloud Application
-permalink: projects/campus-cloud.md
+permalink: projects/campus-cloud
 # All dates must be YYYY-MM-DD format!
 date: 2018-05-09
 labels:
